@@ -2,7 +2,7 @@
 
 MVP de **Re-Comiendo** · Taller Emprendedor · Universidad CAECE (Mar del Plata) · comisión viernes · 2do cuatrimestre 2026.
 
-- **App publicada:** (pendiente)
+- **App publicada:** https://re-comiendo.vercel.app
 - **Landing del curso:** https://ucaece-t-e-tm-viernes-luigi-nati.github.io/landing/
 - **Docentes:** Luis Miguel Orviz y Natalia Tonon García
 
