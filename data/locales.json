@@ -1,0 +1,1818 @@
+[
+ {
+  "id": "chichilo",
+  "nombre": "Chichilo",
+  "categoria": "mariscos",
+  "barrio": "Puerto",
+  "direccion": "Centro Comercial del Puerto",
+  "precio": 2,
+  "momentos": [
+   "almuerzo",
+   "cena"
+  ],
+  "tags": [
+   "clasico",
+   "para grupos"
+  ],
+  "platos": [
+   "Rabas",
+   "Paella de mariscos",
+   "Cazuela de mariscos"
+  ],
+  "descripcion": "El bodegón de toda la vida del Puerto, con más de 70 años sirviendo rabas y pescado a lo grande.",
+  "instagram": "",
+  "fuente": "https://www.canal26.com/turismo/2026/01/10/cuanto-sale-una-porcion-de-rabas-en-chichilo-el-historico-restaurante-del-puerto-de-mar-del-plata/",
+  "fotos": [
+   "fotos/chichilo-1.jpg",
+   "fotos/chichilo-2.jpg"
+  ],
+  "creditoFotos": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38 ; https://images.unsplash.com/photo-1544025162-d76694265947",
+  "nicho": false,
+  "lat": -38.046367,
+  "lng": -57.543848
+ },
+ {
+  "id": "puerto-de-palos",
+  "nombre": "Puerto de Palos",
+  "categoria": "mariscos",
+  "barrio": "Puerto",
+  "direccion": "Centro Comercial del Puerto",
+  "precio": 2,
+  "momentos": [
+   "almuerzo",
+   "cena"
+  ],
+  "tags": [
+   "clasico",
+   "pet friendly",
+   "para grupos"
+  ],
+  "platos": [
+   "Parrillada de pesca de mar",
+   "Medialunas de manteca",
+   "Abadejo a la romana"
+  ],
+  "descripcion": "Más de 30 años en el Puerto con parrillada de mar y hasta pelotero para los chicos.",
+  "instagram": "@puertodepalos.mdp",
+  "fuente": "https://www.lacapitalmdp.com/puerto-de-palos-fue-premiado-por-la-mejor-medialuna-de-manteca-y-consolida-su-perfil-gastronomico-en-mar-del-plata/",
+  "fotos": [
+   "fotos/puerto-de-palos-1.jpg",
+   "fotos/puerto-de-palos-2.jpg"
+  ],
+  "creditoFotos": "https://images.unsplash.com/photo-1559847844-5315695dadae ; https://images.unsplash.com/photo-1535399831218-d5bd36d1a6b3",
+  "nicho": false,
+  "lat": -38.046397,
+  "lng": -57.542621
+ },
+ {
+  "id": "sarasa-negro",
+  "nombre": "Sarasanegro",
+  "categoria": "mariscos",
+  "barrio": "Los Troncos",
+  "direccion": "",
+  "precio": 3,
+  "momentos": [
+   "almuerzo",
+   "cena"
+  ],
+  "tags": [
+   "romantico"
+  ],
+  "platos": [
+   "Arroz meloso con calamar y su tinta",
+   "Besugo con habas y arvejas",
+   "Langostinos al verdeo"
+  ],
+  "descripcion": "Cocina de mar de autor, con más de 20 años de trayectoria y premio Travellers' Choice de TripAdvisor.",
+  "instagram": "",
+  "fuente": "https://www.canal26.com/turismo/2026/02/12/mudanza-con-historia-el-mejor-restaurante-de-mar-del-plata-se-traslada-a-un-chalet-emblematico/",
+  "fotos": [
+   "fotos/sarasa-negro-1.jpg",
+   "fotos/sarasa-negro-2.jpg"
+  ],
+  "creditoFotos": "https://images.unsplash.com/photo-1534080564583-6be75777b70a ; https://images.unsplash.com/photo-1559737558-2f5a35f4523b",
+  "nicho": true,
+  "lat": -37.997617,
+  "lng": -57.548208
+ },
+ {
+  "id": "montecatini",
+  "nombre": "Montecatini",
+  "categoria": "pizza-pastas",
+  "barrio": "La Perla",
+  "direccion": "La Rioja y 25 de Mayo",
+  "precio": 2,
+  "momentos": [
+   "almuerzo",
+   "cena"
+  ],
+  "tags": [
+   "clasico",
+   "para grupos"
+  ],
+  "platos": [
+   "Sorrentinos de jamón y queso",
+   "Ñoquis caseros",
+   "Milanesa napolitana"
+  ],
+  "descripcion": "Cantina familiar desde 1963, con fábrica de pastas a la vista y helado de cierre obligado.",
+  "instagram": "",
+  "fuente": "https://www.timeout.com/es/buenos-aires/donde-comer-en-mar-del-plata-montecatini-proyecto-pescado-chauvin",
+  "fotos": [
+   "fotos/montecatini-1.jpg",
+   "fotos/montecatini-2.jpg"
+  ],
+  "creditoFotos": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085 ; https://images.unsplash.com/photo-1517686469429-8bdb88b9f907",
+  "nicho": false,
+  "lat": -38.004891,
+  "lng": -57.547189
+ },
+ {
+  "id": "manolo",
+  "nombre": "Manolo",
+  "categoria": "cafe",
+  "barrio": "Centro",
+  "direccion": "Rivadavia 2371",
+  "precio": 1,
+  "momentos": [
+   "desayuno",
+   "merienda"
+  ],
+  "tags": [
+   "clasico",
+   "al aire libre"
+  ],
+  "platos": [
+   "Churros con dulce de leche",
+   "Chocolate caliente",
+   "Churros rellenos de crema pastelera"
+  ],
+  "descripcion": "La churrería marplatense de siempre, con la receta española que llegó hace más de 80 años.",
+  "instagram": "",
+  "fuente": "https://www.lacapitalmdp.com/la-historia-de-la-familia-que-creo-los-churros-manolo-y-ahora-vive-una-tragedia/",
+  "fotos": [
+   "fotos/manolo-1.jpg",
+   "fotos/manolo-2.jpg"
+  ],
+  "creditoFotos": "https://images.unsplash.com/photo-1509440159596-0249088772ff ; https://images.unsplash.com/photo-1495147466023-ac5c588e2e94",
+  "nicho": false,
+  "lat": -38.001262,
+  "lng": -57.545035
+ },
+ {
+  "id": "havanna",
+  "nombre": "Havanna",
+  "categoria": "cafe",
+  "barrio": "Centro",
+  "direccion": "",
+  "precio": 1,
+  "momentos": [
+   "desayuno",
+   "merienda"
+  ],
+  "tags": [
+   "clasico",
+   "para grupos"
+  ],
+  "platos": [
+   "Alfajor de chocolate",
+   "Café con alfajor",
+   "Alfajor triple"
+  ],
+  "descripcion": "El local original de la marca de alfajores más famosa del país, nacida en La Feliz en 1948.",
+  "instagram": "",
+  "fuente": "https://www.iprofesional.com/negocios/450499-de-vender-tortitas-negras-en-la-calle-a-crear-havanna-la-historia-de-benjamin-sisterna",
+  "fotos": [
+   "fotos/havanna-1.jpg",
+   "fotos/havanna-2.jpg"
+  ],
+  "creditoFotos": "https://images.unsplash.com/photo-1517705008128-361805f42e86 ; https://images.unsplash.com/photo-1555507036-ab1f4038808a",
+  "nicho": false,
+  "lat": -37.997617,
+  "lng": -57.548208
+ },
+ {
+  "id": "la-fonte-doro",
+  "nombre": "La Fonte d'Oro",
+  "categoria": "cafe",
+  "barrio": "Centro",
+  "direccion": "Alem 3913",
+  "precio": 2,
+  "momentos": [
+   "desayuno",
+   "merienda"
+  ],
+  "tags": [
+   "romantico"
+  ],
+  "platos": [
+   "Tostado de jamón crudo",
+   "Sfogliatelle",
+   "Pan casero con café"
+  ],
+  "descripcion": "Cafetería prolija y detallista, ideal para alargar la merienda con pastelería de autor.",
+  "instagram": "",
+  "fuente": "https://wanderlog.com/place/details/9573837/la-fonte-doro--sucursal-av-juan-j-paso-2430-mar-del-plata",
+  "fotos": [
+   "fotos/la-fonte-doro-1.jpg",
+   "fotos/la-fonte-doro-2.jpg"
+  ],
+  "creditoFotos": "https://images.unsplash.com/photo-1486427944299-d1955d23e34d ; https://images.unsplash.com/photo-1551024601-bec78aea704b",
+  "nicho": true,
+  "lat": -38.029144,
+  "lng": -57.537374
+ },
+ {
+  "id": "torreon-del-monje",
+  "nombre": "Torreón del Monje",
+  "categoria": "cafe",
+  "barrio": "Playa Grande",
+  "direccion": "Paseo Jesús de Galíndez",
+  "precio": 2,
+  "momentos": [
+   "merienda",
+   "cena"
+  ],
+  "tags": [
+   "clasico",
+   "vista al mar",
+   "romantico"
+  ],
+  "platos": [
+   "Té completo con vista al mar",
+   "Sandwiches de miga",
+   "Café con scones"
+  ],
+  "descripcion": "El castillito sobre las rocas de Punta Piedras, con 121 años mirando a Playa Grande.",
+  "instagram": "",
+  "fuente": "https://www.elmarplatense.com/torreon-del-monje-121-anos-de-historias-de-marplatenses-y-turistas",
+  "fotos": [
+   "fotos/torreon-del-monje-1.jpg",
+   "fotos/torreon-del-monje-2.jpg"
+  ],
+  "creditoFotos": "https://images.unsplash.com/photo-1452195100486-9cc805987862 ; https://images.unsplash.com/photo-1521017432531-fbd92d768814",
+  "nicho": false,
+  "lat": -38.012412,
+  "lng": -57.53162
+ },
+ {
+  "id": "pedrito",
+  "nombre": "Pizzería Pedrito",
+  "categoria": "pizza-pastas",
+  "barrio": "La Perla",
+  "direccion": "Salta 301",
+  "precio": 1,
+  "momentos": [
+   "cena"
+  ],
+  "tags": [
+   "clasico",
+   "para grupos"
+  ],
+  "platos": [
+   "Pizza a la piedra de muzzarella",
+   "Fainá",
+   "Pizza napolitana"
+  ],
+  "descripcion": "El rey de la pizza a la piedra de La Perla, con horno a leña desde 1952 y siempre cola en la puerta.",
+  "instagram": "",
+  "fuente": "https://www.infogastronomica.com.ar/la-mejor-pizza-a-la-piedra-de-mar-del-plata-cuanto-cuesta-comer-en-la-pizzeria-que-hace-mas-de-70-anos-siempre-tiene-cola/",
+  "fotos": [
+   "fotos/pedrito-1.jpg",
+   "fotos/pedrito-2.jpg"
+  ],
+  "creditoFotos": "https://images.unsplash.com/photo-1513104890138-7c749659a591 ; https://images.unsplash.com/photo-1551183053-bf91a1d81141",
+  "nicho": false,
+  "lat": -37.98459,
+  "lng": -57.545155
+ },
+ {
+  "id": "don-joe",
+  "nombre": "Don Joe 1968",
+  "categoria": "pizza-pastas",
+  "barrio": "Centro",
+  "direccion": "Lamadrid 2533",
+  "precio": 2,
+  "momentos": [
+   "cena"
+  ],
+  "tags": [
+   "clasico"
+  ],
+  "platos": [
+   "Pizza a la piedra con pan casero",
+   "Fugazzeta",
+   "Calzone"
+  ],
+  "descripcion": "Pizzería de barrio con pan casero bien marplatense, menos masiva que las grandes clásicas.",
+  "instagram": "",
+  "fuente": "https://www.canal26.com/turismo/verano-2024-las-cinco-mejores-pizzerias-que-tenes-que-visitar-en-mar-del-plata--362956",
+  "fotos": [
+   "fotos/don-joe-1.jpg",
+   "fotos/don-joe-2.jpg"
+  ],
+  "creditoFotos": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002 ; https://images.unsplash.com/photo-1473093295043-cdd812d0e601",
+  "nicho": true,
+  "lat": -38.010149,
+  "lng": -57.544559
+ },
+ {
+  "id": "parrilla-perales",
+  "nombre": "Parrilla Perales",
+  "categoria": "parrilla",
+  "barrio": "Centro",
+  "direccion": "San Lorenzo 3797",
+  "precio": 2,
+  "momentos": [
+   "almuerzo",
+   "cena"
+  ],
+  "tags": [
+   "clasico",
+   "para grupos"
+  ],
+  "platos": [
+   "Lechón al asador",
+   "Achuras mixtas",
+   "Bife de chorizo"
+  ],
+  "descripcion": "Sinónimo de parrilla marplatense, especialista en lechón para compartir en grupo.",
+  "instagram": "",
+  "fuente": "https://www.infogastronomica.com.ar/parrillas-en-mar-del-plata-perales-jorgito-y-ayacucho-cuales-son-los-precios-promociones-y-menus-de-este-verano-2023/",
+  "fotos": [
+   "fotos/parrilla-perales-1.jpg",
+   "fotos/parrilla-perales-2.jpg"
+  ],
+  "creditoFotos": "https://images.unsplash.com/photo-1529193591184-b1d58069ecdd ; https://images.unsplash.com/photo-1558030006-450675393462",
+  "nicho": false,
+  "lat": -38.005264,
+  "lng": -57.56855
+ },
+ {
+  "id": "parrilla-jorgito",
+  "nombre": "Parrilla Jorgito",
+  "categoria": "parrilla",
+  "barrio": "Centro",
+  "direccion": "",
+  "precio": 2,
+  "momentos": [
+   "almuerzo",
+   "cena"
+  ],
+  "tags": [
+   "clasico",
+   "para grupos"
+  ],
+  "platos": [
+   "Asado de tira",
+   "Provoleta",
+   "Chorizo criollo"
+  ],
+  "descripcion": "Parrilla histórica marplatense, famosa por la pregunta de rigor: ¿tinto o blanco?",
+  "instagram": "",
+  "fuente": "https://www.lacapitalmdp.com/jorge-pesalovo-un-mozo-historico-de-la-gastronomia-marplatense/",
+  "fotos": [
+   "fotos/parrilla-jorgito-1.jpg",
+   "fotos/parrilla-jorgito-2.jpg"
+  ],
+  "creditoFotos": "https://images.unsplash.com/photo-1551218808-94e220e084d2 ; https://images.unsplash.com/photo-1600891964092-4316c288032e",
+  "nicho": false,
+  "lat": -37.999426,
+  "lng": -57.550357
+ },
+ {
+  "id": "antares",
+  "nombre": "Antares",
+  "categoria": "cerveza",
+  "barrio": "Güemes",
+  "direccion": "Olavarría 2724",
+  "precio": 2,
+  "momentos": [
+   "cena",
+   "birra"
+  ],
+  "tags": [
+   "para grupos",
+   "al aire libre"
+  ],
+  "platos": [
+   "Picada de cervecería",
+   "Scotch Ale tirada",
+   "Tabla de rabas"
+  ],
+  "descripcion": "La cervecería artesanal que nació en Mar del Plata y se hizo cadena nacional.",
+  "instagram": "",
+  "fuente": "https://www.bancoprovincia.com.ar/CDN/Get/gastronomia_empresas_adheridas",
+  "fotos": [
+   "fotos/antares-1.jpg",
+   "fotos/antares-2.jpg"
+  ],
+  "creditoFotos": "https://images.unsplash.com/photo-1535958636474-b021ee887b13 ; https://images.unsplash.com/photo-1518176258769-f227c798150e",
+  "nicho": false,
+  "lat": -38.013879,
+  "lng": -57.541488
+ },
+ {
+  "id": "baum",
+  "nombre": "Baum",
+  "categoria": "cerveza",
+  "barrio": "Constitución",
+  "direccion": "Av. Constitución",
+  "precio": 2,
+  "momentos": [
+   "cena",
+   "birra"
+  ],
+  "tags": [
+   "para grupos",
+   "al aire libre"
+  ],
+  "platos": [
+   "IPA artesanal",
+   "Hamburguesa de cervecería",
+   "Nachos con cheddar"
+  ],
+  "descripcion": "Cervecería de autor marplatense con una decena de estilos propios en la canilla.",
+  "instagram": "",
+  "fuente": "https://www.lacapitalmdp.com/la-cerveza-artesanal-a-la-conquista-de-mar-del-plata/",
+  "fotos": [
+   "fotos/baum-1.jpg",
+   "fotos/baum-2.jpg"
+  ],
+  "creditoFotos": "https://images.unsplash.com/photo-1544145945-f90425340c7e ; https://images.unsplash.com/photo-1584225064785-c62a8b43d148",
+  "nicho": false,
+  "lat": -37.947632,
+  "lng": -57.588971
+ },
+ {
+  "id": "torombolo",
+  "nombre": "Torombolo",
+  "categoria": "hamburguesas",
+  "barrio": "Centro",
+  "direccion": "Alem 3500",
+  "precio": 2,
+  "momentos": [
+   "almuerzo",
+   "cena"
+  ],
+  "tags": [
+   "al aire libre"
+  ],
+  "platos": [
+   "Hamburguesa californiana",
+   "Papas rústicas",
+   "Sandwich vegetariano"
+  ],
+  "descripcion": "Onda surfera y californiana desde 1983, con opciones veggie en la carta.",
+  "instagram": "",
+  "fuente": "https://www.infoviajera.com/?p=93593",
+  "fotos": [
+   "fotos/torombolo-1.jpg",
+   "fotos/torombolo-2.jpg"
+  ],
+  "creditoFotos": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd ; https://images.unsplash.com/photo-1550317138-10000687a72b",
+  "nicho": true,
+  "lat": -38.025959,
+  "lng": -57.534375
+ },
+ {
+  "id": "hamburgo",
+  "nombre": "Hamburgo",
+  "categoria": "hamburguesas",
+  "barrio": "Playa Grande",
+  "direccion": "Paseo Jesús de Galíndez",
+  "precio": 1,
+  "momentos": [
+   "merienda",
+   "cena",
+   "birra"
+  ],
+  "tags": [
+   "vista al mar",
+   "al aire libre"
+  ],
+  "platos": [
+   "Hamburguesa con cheddar y panceta",
+   "Papas fritas",
+   "Birra artesanal con vista al mar"
+  ],
+  "descripcion": "Hamburguesas a buen precio justo al lado del Torreón, con Cabo Corrientes de fondo.",
+  "instagram": "@hamburgo.mardelplata",
+  "fuente": "https://www.canal26.com/turismo/cuanto-cuesta-una-hamburguesa-en-mar-del-plata-el-restaurante-con-precios-accesibles-y-una-increible-vista-a-playa--406711",
+  "fotos": [
+   "fotos/hamburgo-1.jpg",
+   "fotos/hamburgo-2.jpg"
+  ],
+  "creditoFotos": "https://images.unsplash.com/photo-1572802419224-296b0aeee0d9 ; https://images.unsplash.com/photo-1586190848861-99aa4a171e90",
+  "nicho": false,
+  "lat": -38.012412,
+  "lng": -57.53162
+ },
+ {
+  "id": "hiei-s-sushi",
+  "nombre": "Hiei's Sushi",
+  "categoria": "sushi",
+  "barrio": "Centro",
+  "direccion": "",
+  "precio": 3,
+  "momentos": [
+   "cena"
+  ],
+  "tags": [
+   "romantico"
+  ],
+  "platos": [
+   "Roll samurái",
+   "Sashimi de salmón",
+   "Nigiri de langostino"
+  ],
+  "descripcion": "Sushi hecho al momento con mirada de cocina tradicional japonesa, poco masivo pero muy querido.",
+  "instagram": "",
+  "fuente": "https://wanderlog.com/place/details/2634472/hieis-sushi",
+  "fotos": [
+   "fotos/hiei-s-sushi-1.jpg",
+   "fotos/hiei-s-sushi-2.jpg"
+  ],
+  "creditoFotos": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c ; https://images.unsplash.com/photo-1553621042-f6e147245754",
+  "nicho": true,
+  "lat": -37.997617,
+  "lng": -57.548208
+ },
+ {
+  "id": "wara",
+  "nombre": "Wara Cocina de Origen",
+  "categoria": "veggie",
+  "barrio": "Centro",
+  "direccion": "",
+  "precio": 2,
+  "momentos": [
+   "almuerzo",
+   "merienda"
+  ],
+  "tags": [
+   "al aire libre",
+   "sin tacc"
+  ],
+  "platos": [
+   "Lasaña de berenjena",
+   "Bowl de vegetales a la parrilla",
+   "Brownie vegano con helado"
+  ],
+  "descripcion": "Espacio saludable con onda hippie y patio escondido, fuerte en opciones vegetarianas y veganas.",
+  "instagram": "",
+  "fuente": "https://wanderlog.com/place/details/3231556/wara-cocina-de-origen",
+  "fotos": [
+   "fotos/wara-1.jpg",
+   "fotos/wara-2.jpg"
+  ],
+  "creditoFotos": "https://images.unsplash.com/photo-1540420773420-3366772f4999 ; https://images.unsplash.com/photo-1512621776951-a57141f2eefd",
+  "nicho": true,
+  "lat": -37.997617,
+  "lng": -57.548208
+ },
+ {
+  "id": "atc",
+  "nombre": "ATC (Acá Tomamos Café)",
+  "categoria": "cafe",
+  "barrio": "Centro",
+  "direccion": "Rawson 2025",
+  "precio": 2,
+  "momentos": [
+   "desayuno",
+   "merienda"
+  ],
+  "tags": [
+   "al aire libre"
+  ],
+  "nicho": true,
+  "platos": [
+   "Espresso de especialidad",
+   "Flat white",
+   "Filtrado con cafetera La Marzocco"
+  ],
+  "descripcion": "Café de especialidad con onda ochentosa y mesitas en la vereda, de los primeros microtostadores de la ciudad.",
+  "instagram": "",
+  "fuente": "https://www.infoviajera.com/2021/01/atc-aca-tomamos-cafe-subiendo-el-nivel-del-cafe-en-mar-del-plata/",
+  "fotos": [
+   "fotos/atc-1.jpg",
+   "fotos/atc-2.jpg"
+  ],
+  "lat": -38.010319,
+  "lng": -57.54765
+ },
+ {
+  "id": "kersen",
+  "nombre": "Kersen",
+  "categoria": "cafe",
+  "barrio": "Playa Grande",
+  "direccion": "",
+  "precio": 2,
+  "momentos": [
+   "desayuno",
+   "merienda"
+  ],
+  "tags": [
+   "romantico"
+  ],
+  "nicho": true,
+  "platos": [
+   "Cappuccino con arte latte",
+   "Torre de pancakes",
+   "Alfajor artesanal"
+  ],
+  "descripcion": "Tostadero y cafetería de especialidad a pasos de Playa Grande, referencia del café marplatense desde 2019.",
+  "instagram": "",
+  "fuente": "https://www.timeout.com/es/buenos-aires/mejores-cafes-de-especialidad-mar-del-plata-kersen-dinette-crumble-bakery",
+  "fotos": [
+   "fotos/kersen-1.jpg",
+   "fotos/kersen-2.jpg"
+  ],
+  "lat": -37.997617,
+  "lng": -57.548208
+ },
+ {
+  "id": "lo-de-tata",
+  "nombre": "Lo de Tata",
+  "categoria": "mariscos",
+  "barrio": "Centro",
+  "direccion": "La Rioja esq. Avellaneda",
+  "precio": 2,
+  "momentos": [
+   "almuerzo",
+   "cena"
+  ],
+  "tags": [
+   "clasico"
+  ],
+  "nicho": false,
+  "platos": [
+   "Pescado del día a la plancha",
+   "Rabas caseras",
+   "Langostinos al verdeo"
+  ],
+  "descripcion": "Cantina familiar de pesca fresca, sin cremas ni salsas que tapen el sabor del pescado del día.",
+  "instagram": "",
+  "fuente": "https://www.timeout.com/es/buenos-aires/lo-de-tata-restaurante-donde-comer-mar-del-plata",
+  "fotos": [
+   "fotos/lo-de-tata-1.jpg",
+   "fotos/lo-de-tata-2.jpg"
+  ],
+  "lat": -37.999426,
+  "lng": -57.550357
+ },
+ {
+  "id": "corte-y-confeccion",
+  "nombre": "Corte y Confección",
+  "categoria": "mariscos",
+  "barrio": "Chauvin",
+  "direccion": "Castelli 2720",
+  "precio": 3,
+  "momentos": [
+   "cena"
+  ],
+  "tags": [
+   "romantico"
+  ],
+  "nicho": true,
+  "platos": [
+   "Pesca del día de autor",
+   "Rabas con mayonesa casera",
+   "Queso brie caramelizado"
+  ],
+  "descripcion": "Restaurante íntimo que arrancó a puertas cerradas y hoy es referencia de pescados y mariscos en Chauvin.",
+  "instagram": "",
+  "fuente": "https://www.lacapitalmdp.com/corte-y-confeccion-la-innovacion-como-bandera/",
+  "fotos": [
+   "fotos/corte-y-confeccion-1.jpg",
+   "fotos/corte-y-confeccion-2.jpg"
+  ],
+  "lat": -38.008495,
+  "lng": -57.556046
+ },
+ {
+  "id": "mambru",
+  "nombre": "Mambrú",
+  "categoria": "pizza-pastas",
+  "barrio": "La Perla",
+  "direccion": "Libertad 3321",
+  "precio": 1,
+  "momentos": [
+   "cena"
+  ],
+  "tags": [
+   "clasico",
+   "para grupos"
+  ],
+  "nicho": false,
+  "platos": [
+   "Pizza al molde de muzzarella",
+   "Fugazza con queso",
+   "Pizza lombarda"
+  ],
+  "descripcion": "Pizzería histórica de La Perla desde 1981, con media masa y casi un kilo de muzzarella por pizza.",
+  "instagram": "",
+  "fuente": "https://www.canal26.com/general/2025/09/26/cuanto-cuesta-comer-en-mambru-una-de-las-mejores-pizzerias-de-mar-del-plata/",
+  "fotos": [
+   "fotos/mambru-1.jpg",
+   "fotos/mambru-2.jpg"
+  ],
+  "lat": -37.989883,
+  "lng": -57.549651
+ },
+ {
+  "id": "bella-italia",
+  "nombre": "Bella Italia Fábrica de Pastas Frescas",
+  "categoria": "pizza-pastas",
+  "barrio": "Centro",
+  "direccion": "Moreno 2756",
+  "precio": 2,
+  "momentos": [
+   "almuerzo",
+   "cena"
+  ],
+  "tags": [
+   "para grupos"
+  ],
+  "nicho": true,
+  "platos": [
+   "Ravioles de ricota y espinaca",
+   "Agnolotis caseros",
+   "Tiramisú"
+  ],
+  "descripcion": "Fábrica de pastas frescas con clientela fiel, famosa por sus ravioles caseros y su tiramisú inolvidable.",
+  "instagram": "",
+  "fuente": "https://wanderlog.com/place/details/12514710/bella-italia-fábrica-de-pastas-frescas-mar-del-plata",
+  "fotos": [
+   "fotos/bella-italia-1.jpg",
+   "fotos/bella-italia-2.jpg"
+  ],
+  "lat": -38.001111,
+  "lng": -57.550477
+ },
+ {
+  "id": "furia-puro-fuego",
+  "nombre": "Furia Puro Fuego",
+  "categoria": "parrilla",
+  "barrio": "Güemes",
+  "direccion": "Rawson 1457 (9° piso)",
+  "precio": 3,
+  "momentos": [
+   "cena"
+  ],
+  "tags": [
+   "vista al mar",
+   "romantico"
+  ],
+  "nicho": true,
+  "platos": [
+   "Asado a las brasas",
+   "Provoleta a la parrilla",
+   "Achuras mixtas"
+  ],
+  "descripcion": "El primer rooftop parrillero de la ciudad, con las brasas de Los Perales y vista panorámica a Mar del Plata.",
+  "instagram": "",
+  "fuente": "https://www.infogastronomica.com.ar/el-nuevo-rooftop-de-los-mejores-cocineros-de-mar-del-plata-el-restaurante-en-altura-de-moda/",
+  "fotos": [
+   "fotos/furia-puro-fuego-1.jpg",
+   "fotos/furia-puro-fuego-2.jpg"
+  ],
+  "lat": -38.015211,
+  "lng": -57.551916
+ },
+ {
+  "id": "el-rescoldo",
+  "nombre": "El Rescoldo",
+  "categoria": "parrilla",
+  "barrio": "Centro",
+  "direccion": "San Lorenzo 1312",
+  "precio": 2,
+  "momentos": [
+   "almuerzo",
+   "cena"
+  ],
+  "tags": [
+   "clasico",
+   "para grupos"
+  ],
+  "nicho": false,
+  "platos": [
+   "Asado de tira",
+   "Costillar de cerdo",
+   "Chorizo criollo"
+  ],
+  "descripcion": "Parrilla de barrio con las brasas siempre prendidas, clásica entre los marplatenses de toda la vida.",
+  "instagram": "",
+  "fuente": "https://www.argentino.com.ar/mar-del-plata/parrillas",
+  "fotos": [
+   "fotos/el-rescoldo-1.jpg",
+   "fotos/el-rescoldo-2.jpg"
+  ],
+  "lat": -38.017989,
+  "lng": -57.54389
+ },
+ {
+  "id": "cheverry",
+  "nombre": "Cheverry",
+  "categoria": "cerveza",
+  "barrio": "Constitución",
+  "direccion": "Av. Constitución",
+  "precio": 2,
+  "momentos": [
+   "cena",
+   "birra"
+  ],
+  "tags": [
+   "para grupos",
+   "al aire libre"
+  ],
+  "nicho": false,
+  "platos": [
+   "Pinta de IPA",
+   "Picada cervecera",
+   "Lager tirada"
+  ],
+  "descripcion": "Cervecería marplatense que se multiplicó en varios bares de la ciudad y ganó premios a nivel nacional.",
+  "instagram": "",
+  "fuente": "https://www.lacapitalmdp.com/una-cerveceria-marplatense-fue-elegida-como-la-mejor-del-pais/",
+  "fotos": [
+   "fotos/cheverry-1.jpg",
+   "fotos/cheverry-2.jpg"
+  ],
+  "lat": -37.947632,
+  "lng": -57.588971
+ },
+ {
+  "id": "viejo-dave",
+  "nombre": "Viejo Dave",
+  "categoria": "hamburguesas",
+  "barrio": "Centro",
+  "direccion": "Alvarado 2621",
+  "precio": 2,
+  "momentos": [
+   "almuerzo",
+   "cena",
+   "birra"
+  ],
+  "tags": [
+   "para grupos"
+  ],
+  "nicho": true,
+  "platos": [
+   "Hamburguesa clásica con panceta",
+   "Combinaciones de 39 toppings",
+   "Papas con cheddar"
+  ],
+  "descripcion": "Hamburguesería chica y descontracturada con siete variedades de hamburguesa y decenas de combinaciones.",
+  "instagram": "",
+  "fuente": "https://wanderlog.com/place/details/1425211/viejo-dave",
+  "fotos": [
+   "fotos/viejo-dave-1.jpg",
+   "fotos/viejo-dave-2.jpg"
+  ],
+  "lat": -38.009665,
+  "lng": -57.555542
+ },
+ {
+  "id": "la-hamburgueseria-cordoba",
+  "nombre": "La Hamburguesería Córdoba",
+  "categoria": "hamburguesas",
+  "barrio": "Centro",
+  "direccion": "Córdoba 3401",
+  "precio": 2,
+  "momentos": [
+   "almuerzo",
+   "cena"
+  ],
+  "tags": [
+   "para grupos"
+  ],
+  "nicho": false,
+  "platos": [
+   "Hamburguesa con cheddar",
+   "Papas fritas caseras",
+   "Hamburguesa doble con panceta"
+  ],
+  "descripcion": "Hamburguesas con toque argentino y pan casero, buena relación precio-calidad en el centro marplatense.",
+  "instagram": "",
+  "fuente": "https://wanderlog.com/place/details/2623519/la-hamburguesería-cordoba",
+  "fotos": [
+   "fotos/la-hamburgueseria-cordoba-1.jpg",
+   "fotos/la-hamburgueseria-cordoba-2.jpg"
+  ],
+  "lat": -38.013083,
+  "lng": -57.558122
+ },
+ {
+  "id": "pacifico",
+  "nombre": "Pacífico",
+  "categoria": "sushi",
+  "barrio": "Parque Luro",
+  "direccion": "",
+  "precio": 2,
+  "momentos": [
+   "cena"
+  ],
+  "tags": [
+   "romantico"
+  ],
+  "nicho": true,
+  "platos": [
+   "Roll de langostino y palta",
+   "Nigiri de atún",
+   "Tiradito peruano"
+  ],
+  "descripcion": "Sushi y cocina asiática-peruana en un local chico y tranquilo de Parque Luro, muy bien de precio-calidad.",
+  "instagram": "",
+  "fuente": "https://wanderlog.com/place/details/3496239/pacífico",
+  "fotos": [
+   "fotos/pacifico-1.jpg",
+   "fotos/pacifico-2.jpg"
+  ],
+  "lat": -37.997617,
+  "lng": -57.548208
+ },
+ {
+  "id": "sushiclub",
+  "nombre": "SushiClub Mar del Plata",
+  "categoria": "sushi",
+  "barrio": "Güemes",
+  "direccion": "Castelli 2302",
+  "precio": 3,
+  "momentos": [
+   "almuerzo",
+   "cena"
+  ],
+  "tags": [
+   "para grupos"
+  ],
+  "nicho": false,
+  "platos": [
+   "Roll & Roll",
+   "Sushi vanguardista variado",
+   "Combinados para compartir"
+  ],
+  "descripcion": "Sucursal marplatense de la cadena de sushi más grande del país, con rolls innovadores y buena presentación.",
+  "instagram": "",
+  "fuente": "https://wanderlog.com/place/details/1418356/sushiclub-mar-del-plata",
+  "fotos": [
+   "fotos/sushiclub-1.jpg",
+   "fotos/sushiclub-2.jpg"
+  ],
+  "lat": -38.010589,
+  "lng": -57.551909
+ },
+ {
+  "id": "niata",
+  "nombre": "Niata Veggie and Vegan",
+  "categoria": "veggie",
+  "barrio": "Centro",
+  "direccion": "Santa Fe 1877",
+  "precio": 1,
+  "momentos": [
+   "almuerzo",
+   "merienda"
+  ],
+  "tags": [
+   "para grupos"
+  ],
+  "nicho": true,
+  "platos": [
+   "Milanesas de soja al peso",
+   "Guiso de lentejas",
+   "Empanadas veganas"
+  ],
+  "descripcion": "Tenedor libre vegetariano y vegano al peso, con platos caseros que cambian día a día.",
+  "instagram": "",
+  "fuente": "https://www.happycow.net/reviews/niata-veggie-and-vegan-mar-del-plata-384413",
+  "fotos": [
+   "fotos/niata-1.jpg",
+   "fotos/niata-2.jpg"
+  ],
+  "lat": -38.001709,
+  "lng": -57.546196
+ },
+ {
+  "id": "dinette",
+  "nombre": "Dinette",
+  "categoria": "cafe",
+  "barrio": "Centro",
+  "direccion": "Alvarado 1702",
+  "precio": 2,
+  "momentos": [
+   "desayuno",
+   "merienda"
+  ],
+  "tags": [
+   "romantico"
+  ],
+  "nicho": true,
+  "platos": [
+   "Croissants de manteca",
+   "Macarons franceses",
+   "Croque monsieur"
+  ],
+  "descripcion": "Bistró a la francesa con pastelería cuidada y café de especialidad, una esquina parisina a dos cuadras del mar.",
+  "instagram": "",
+  "fuente": "https://www.timeout.com/es/buenos-aires/mejores-cafes-de-especialidad-mar-del-plata-kersen-dinette-crumble-bakery",
+  "fotos": [
+   "fotos/dinette-1.jpg",
+   "fotos/dinette-2.jpg"
+  ],
+  "lat": -38.014359,
+  "lng": -57.546568
+ },
+ {
+  "id": "nino-lobo",
+  "nombre": "Niño Lobo",
+  "categoria": "cafe",
+  "barrio": "Güemes",
+  "direccion": "Roca 1244",
+  "precio": 2,
+  "momentos": [
+   "desayuno",
+   "merienda"
+  ],
+  "tags": [
+   "para grupos",
+   "al aire libre"
+  ],
+  "nicho": true,
+  "platos": [
+   "Espresso de origen",
+   "Affogato con helado de pistacho",
+   "Cappuccino con arte latte"
+  ],
+  "descripcion": "Café de diseño con obras de artistas locales en las paredes y creaciones cafeteras bien creativas.",
+  "instagram": "",
+  "fuente": "https://www.timeout.com/es/buenos-aires/mejores-cafes-de-especialidad-mar-del-plata-kersen-dinette-crumble-bakery",
+  "fotos": [
+   "fotos/nino-lobo-1.jpg",
+   "fotos/nino-lobo-2.jpg"
+  ],
+  "lat": -38.019177,
+  "lng": -57.543802
+ },
+ {
+  "id": "crumble-bakery",
+  "nombre": "Crumble Bakery",
+  "categoria": "cafe",
+  "barrio": "Centro",
+  "direccion": "San Juan 540",
+  "precio": 2,
+  "momentos": [
+   "desayuno",
+   "merienda"
+  ],
+  "tags": [
+   "para grupos"
+  ],
+  "nicho": true,
+  "platos": [
+   "Rolls de canela",
+   "Medialunas de manteca",
+   "Torta del día"
+  ],
+  "descripcion": "Bakery de barrio donde la pastelería tradicional se cruza con café de grano seleccionado.",
+  "instagram": "",
+  "fuente": "https://www.timeout.com/es/buenos-aires/mejores-cafes-de-especialidad-mar-del-plata-kersen-dinette-crumble-bakery",
+  "fotos": [
+   "fotos/crumble-bakery-1.jpg",
+   "fotos/crumble-bakery-2.jpg"
+  ],
+  "lat": -37.98197,
+  "lng": -57.55533
+ },
+ {
+  "id": "nina-pasticceria",
+  "nombre": "Nina Pasticceria",
+  "categoria": "cafe",
+  "barrio": "Güemes",
+  "direccion": "",
+  "precio": 2,
+  "momentos": [
+   "desayuno",
+   "merienda"
+  ],
+  "tags": [
+   "para grupos"
+  ],
+  "nicho": true,
+  "platos": [
+   "Porción de rogel",
+   "Cheesecake de dulce de leche",
+   "Alfajores y cookies de pastelería"
+  ],
+  "descripcion": "Pastelería y café de las hermanas Pollio, hijas del dueño de Dei Fiori, con vitrina a pura tentación dulce.",
+  "instagram": "",
+  "fuente": "https://www.timeout.com/es/buenos-aires/mejores-cafes-de-especialidad-mar-del-plata-kersen-dinette-crumble-bakery",
+  "fotos": [
+   "fotos/nina-pasticceria-1.jpg",
+   "fotos/nina-pasticceria-2.jpg"
+  ],
+  "lat": -37.997617,
+  "lng": -57.548208
+ },
+ {
+  "id": "lo-de-fran-cocina-de-mar",
+  "nombre": "Lo de Fran Cocina de Mar",
+  "categoria": "mariscos",
+  "barrio": "Puerto",
+  "direccion": "Av. de los Trabajadores 171",
+  "precio": 3,
+  "momentos": [
+   "almuerzo",
+   "cena"
+  ],
+  "tags": [
+   "romantico"
+  ],
+  "nicho": true,
+  "platos": [
+   "Chipirones rebozados",
+   "Tiradito de pesca de anzuelo",
+   "Arroz negro con calamar y socarrat"
+  ],
+  "descripcion": "Taberna marinera de autor del chef Fran Rosat, con pesca de anzuelo que compra directo a pescadores deportivos.",
+  "instagram": "",
+  "fuente": "https://www.cadena3.com/noticia/argentina/lo-de-fran-un-restaurant-top-que-ofrece-manjares-de-mar_280308",
+  "fotos": [
+   "fotos/lo-de-fran-cocina-de-mar-1.jpg",
+   "fotos/lo-de-fran-cocina-de-mar-2.jpg"
+  ],
+  "lat": -38.042123,
+  "lng": -57.543438
+ },
+ {
+  "id": "marisqueria-santa-rita",
+  "nombre": "Marisquería Santa Rita",
+  "categoria": "mariscos",
+  "barrio": "Puerto",
+  "direccion": "",
+  "precio": 2,
+  "momentos": [
+   "almuerzo",
+   "cena"
+  ],
+  "tags": [
+   "clasico",
+   "para grupos",
+   "al aire libre"
+  ],
+  "nicho": false,
+  "platos": [
+   "Rabas",
+   "Paella de mariscos",
+   "Cazuela de mariscos"
+  ],
+  "descripcion": "Marisquería semi autoservicio del Centro Comercial del Puerto, con mesas afuera y salón arriba para comer tranquilo.",
+  "instagram": "",
+  "fuente": "https://www.infoviajera.com/?p=97024",
+  "fotos": [
+   "fotos/marisqueria-santa-rita-1.jpg",
+   "fotos/marisqueria-santa-rita-2.jpg"
+  ],
+  "lat": -37.997617,
+  "lng": -57.548208
+ },
+ {
+  "id": "proyecto-pescado",
+  "nombre": "Proyecto Pescado",
+  "categoria": "mariscos",
+  "barrio": "Alfar",
+  "direccion": "Sánchez de Bustamante 3548",
+  "precio": 3,
+  "momentos": [
+   "almuerzo",
+   "cena"
+  ],
+  "tags": [
+   "romantico"
+  ],
+  "nicho": true,
+  "platos": [
+   "Pesca de estación con guarniciones de autor",
+   "Ceviche marplatense",
+   "Pescado a la plancha con vegetales grillados"
+  ],
+  "descripcion": "Proyecto gastronómico que revaloriza la pesca artesanal con una carta que cambia según la estación; se mudó a un chalet emblemático en 2026.",
+  "instagram": "",
+  "fuente": "https://www.canal26.com/turismo/2026/02/12/mudanza-con-historia-el-mejor-restaurante-de-mar-del-plata-se-traslada-a-un-chalet-emblematico/",
+  "fotos": [
+   "fotos/proyecto-pescado-1.jpg",
+   "fotos/proyecto-pescado-2.jpg"
+  ],
+  "lat": -38.083936,
+  "lng": -57.547736
+ },
+ {
+  "id": "la-mini",
+  "nombre": "La Mini",
+  "categoria": "pizza-pastas",
+  "barrio": "Centro",
+  "direccion": "Independencia 1681",
+  "precio": 1,
+  "momentos": [
+   "almuerzo",
+   "cena"
+  ],
+  "tags": [
+   "clasico",
+   "para grupos"
+  ],
+  "nicho": false,
+  "platos": [
+   "Pizza a la piedra de muzzarella",
+   "Fainá",
+   "Pizza especial de jamón y morrón"
+  ],
+  "descripcion": "Pizzería de siempre con varias sucursales en la ciudad, de las favoritas para pedir una pizza a la piedra a cualquier hora.",
+  "instagram": "",
+  "fuente": "https://www.lacapitalmdp.com/dia-del-pizzero-las-historias-de-cuatro-pizzerias-tradicionales-de-mar-del-plata/",
+  "fotos": [
+   "fotos/la-mini-1.jpg",
+   "fotos/la-mini-2.jpg"
+  ],
+  "lat": -37.996131,
+  "lng": -57.552981
+ },
+ {
+  "id": "la-marcianita",
+  "nombre": "La Marcianita",
+  "categoria": "pizza-pastas",
+  "barrio": "Centro",
+  "direccion": "Colón 3232",
+  "precio": 1,
+  "momentos": [
+   "almuerzo",
+   "cena"
+  ],
+  "tags": [
+   "clasico"
+  ],
+  "nicho": true,
+  "platos": [
+   "Marcianito tostado",
+   "Pizza al molde de muzzarella",
+   "Matambre casero con rusa"
+  ],
+  "descripcion": "Clásico de la familia Rasso, famoso por el marcianito, el tostado hecho con pan de pizza que le da nombre al local.",
+  "instagram": "",
+  "fuente": "https://www.lacapitalmdp.com/dia-del-pizzero-las-historias-de-cuatro-pizzerias-tradicionales-de-mar-del-plata/",
+  "fotos": [
+   "fotos/la-marcianita-1.jpg",
+   "fotos/la-marcianita-2.jpg"
+  ],
+  "lat": -38.000299,
+  "lng": -57.556689
+ },
+ {
+  "id": "trattoria-vespoli",
+  "nombre": "Trattoria Napolitana Véspoli",
+  "categoria": "pizza-pastas",
+  "barrio": "La Perla",
+  "direccion": "3 de Febrero 3158",
+  "precio": 2,
+  "momentos": [
+   "almuerzo",
+   "cena"
+  ],
+  "tags": [
+   "clasico"
+  ],
+  "nicho": true,
+  "platos": [
+   "Sorrentinos de jamón y muzzarella",
+   "Ravioles caseros",
+   "Lasaña de la casa"
+  ],
+  "descripcion": "La trattoria donde la familia Véspoli inventó los sorrentinos en 1946, con la misma salsa casera de siempre.",
+  "instagram": "",
+  "fuente": "https://www.canal26.com/turismo/lejos-de-italia-una-de-las-pastas-ricas-y-consumidas-nacio-en-mar-del-plata-y-podes-visitar-el-lugar--407368",
+  "fotos": [
+   "fotos/trattoria-vespoli-1.jpg",
+   "fotos/trattoria-vespoli-2.jpg"
+  ],
+  "lat": -37.99341,
+  "lng": -57.549886
+ },
+ {
+  "id": "dei-fiori",
+  "nombre": "Dei Fiori",
+  "categoria": "pizza-pastas",
+  "barrio": "Centro",
+  "direccion": "",
+  "precio": 2,
+  "momentos": [
+   "almuerzo",
+   "cena"
+  ],
+  "tags": [
+   "clasico",
+   "para grupos"
+  ],
+  "nicho": false,
+  "platos": [
+   "Pastas caseras surtidas",
+   "Canelones de verdura",
+   "Ñoquis con salsa de la casa"
+  ],
+  "descripcion": "Más de 30 años de pastas hechas a mano por Nino, en platos abundantes para compartir y buen precio.",
+  "instagram": "@deifioriristorante",
+  "fuente": "https://www.infogastronomica.com.ar/en-mar-del-plata-el-restaurante-que-hace-mas-de-30-anos-sirve-pastas-hechas-a-mano-y-se-llena-todas-las-noches/",
+  "fotos": [
+   "fotos/dei-fiori-1.jpg",
+   "fotos/dei-fiori-2.jpg"
+  ],
+  "lat": -37.997617,
+  "lng": -57.548208
+ },
+ {
+  "id": "parrilla-huija",
+  "nombre": "Parrilla Huija",
+  "categoria": "parrilla",
+  "barrio": "Playa Grande",
+  "direccion": "Alem 3414",
+  "precio": 2,
+  "momentos": [
+   "almuerzo",
+   "cena"
+  ],
+  "tags": [
+   "clasico",
+   "para grupos"
+  ],
+  "nicho": false,
+  "platos": [
+   "Entraña a la parrilla",
+   "Chorizo criollo",
+   "Vacío al asador"
+  ],
+  "descripcion": "Parrilla acogedora de Playa Grande con buena carta de vinos y la entrañita como plato estrella.",
+  "instagram": "",
+  "fuente": "https://wanderlog.com/place/details/1344254",
+  "fotos": [
+   "fotos/parrilla-huija-1.jpg",
+   "fotos/parrilla-huija-2.jpg"
+  ],
+  "lat": -38.025424,
+  "lng": -57.533939
+ },
+ {
+  "id": "casa-mandinga",
+  "nombre": "Casa Mandinga",
+  "categoria": "parrilla",
+  "barrio": "Villa Gainza Paz",
+  "direccion": "",
+  "precio": 3,
+  "momentos": [
+   "almuerzo",
+   "cena"
+  ],
+  "tags": [
+   "romantico"
+  ],
+  "nicho": true,
+  "platos": [
+   "Ceja de ojo de bife al horno Josper",
+   "Rack de cordero",
+   "Chacinados de elaboración propia"
+  ],
+  "descripcion": "Parrilla de autor instalada en una casona de 1930 que fue de Alberto Gainza Paz, con cortes poco comunes al horno Josper.",
+  "instagram": "",
+  "fuente": "https://www.timeout.com/es/buenos-aires/casa-mandinga-parilla-restaurante-mar-del-plata-joaquin-beneito-cerveza-imperial",
+  "fotos": [
+   "fotos/casa-mandinga-1.jpg",
+   "fotos/casa-mandinga-2.jpg"
+  ],
+  "lat": -37.997617,
+  "lng": -57.548208
+ },
+ {
+  "id": "la-palomina",
+  "nombre": "La Palomina",
+  "categoria": "parrilla",
+  "barrio": "Playa Grande",
+  "direccion": "",
+  "precio": 3,
+  "momentos": [
+   "almuerzo",
+   "cena"
+  ],
+  "tags": [
+   "vista al mar",
+   "romantico"
+  ],
+  "nicho": true,
+  "platos": [
+   "Ojo de bife",
+   "Entraña",
+   "Picada de autor para compartir"
+  ],
+  "descripcion": "Parrilla de autor con sucursal frente al mar en la Normandina, buena onda con dj en vivo y tragos de autor.",
+  "instagram": "",
+  "fuente": "https://caras.perfil.com/noticias/empresas-y-protagonistas/la-palomina-el-recomendado-de-caras-para-un-momento-en-familia-o-con-amigos.phtml",
+  "fotos": [
+   "fotos/la-palomina-1.jpg",
+   "fotos/la-palomina-2.jpg"
+  ],
+  "lat": -37.997617,
+  "lng": -57.548208
+ },
+ {
+  "id": "fauno-mitologia-cervecera",
+  "nombre": "FAUNO Mitología Cervecera",
+  "categoria": "cerveza",
+  "barrio": "Güemes",
+  "direccion": "Olavarría 3232",
+  "precio": 2,
+  "momentos": [
+   "birra",
+   "cena"
+  ],
+  "tags": [
+   "al aire libre",
+   "para grupos"
+  ],
+  "nicho": true,
+  "platos": [
+   "Tabla de fiambres y quesos",
+   "IPA de la casa",
+   "Hamburguesa de cervecería"
+  ],
+  "descripcion": "Cervecería con patio adelante y atrás sobre Olavarría, estilos propios y picadas para compartir toda la noche.",
+  "instagram": "",
+  "fuente": "https://www.infoviajera.com/2022/11/visitamos-fauno-mitologia-cervecera-en-mar-del-plata-argentina/",
+  "fotos": [
+   "fotos/fauno-mitologia-cervecera-1.jpg",
+   "fotos/fauno-mitologia-cervecera-2.jpg"
+  ],
+  "lat": -38.017851,
+  "lng": -57.544721
+ },
+ {
+  "id": "brew-house",
+  "nombre": "Brew House",
+  "categoria": "cerveza",
+  "barrio": "Güemes",
+  "direccion": "",
+  "precio": 2,
+  "momentos": [
+   "birra",
+   "cena"
+  ],
+  "tags": [
+   "para grupos",
+   "clasico"
+  ],
+  "nicho": false,
+  "platos": [
+   "Picada cervecera",
+   "Cerveza tirada a elección entre 40 canillas",
+   "Choripán artesanal"
+  ],
+  "descripcion": "Una de las primeras cervecerías de Güemes, con 40 canillas de productores de todo el país y patio con mesas largas.",
+  "instagram": "",
+  "fuente": "https://theculturetrip.com/articles/the-best-places-to-drink-craft-beer-in-mar-del-plata",
+  "fotos": [
+   "fotos/brew-house-1.jpg",
+   "fotos/brew-house-2.jpg"
+  ],
+  "lat": -37.997617,
+  "lng": -57.548208
+ },
+ {
+  "id": "la-paloma-brewing",
+  "nombre": "La Paloma Brewing Company",
+  "categoria": "cerveza",
+  "barrio": "Güemes",
+  "direccion": "",
+  "precio": 2,
+  "momentos": [
+   "birra",
+   "cena"
+  ],
+  "tags": [
+   "clasico",
+   "al aire libre"
+  ],
+  "nicho": true,
+  "platos": [
+   "Cream Ale de la casa",
+   "Tabla picada cervecera",
+   "Burger de la cervecería"
+  ],
+  "descripcion": "Cervecería independiente en el corazón de Olavarría, con onda rústica y buena mesa para acompañar las cervezas propias.",
+  "instagram": "",
+  "fuente": "https://thebrewermagazine.com/international-insights-federico-murgier-la-paloma-brewing-company/",
+  "fotos": [
+   "fotos/la-paloma-brewing-1.jpg",
+   "fotos/la-paloma-brewing-2.jpg"
+  ],
+  "lat": -37.997617,
+  "lng": -57.548208
+ },
+ {
+  "id": "crip-hamburgues",
+  "nombre": "Crip Hamburgues",
+  "categoria": "hamburguesas",
+  "barrio": "Centro",
+  "direccion": "Diagonal Pueyrredón 3224",
+  "precio": 1,
+  "momentos": [
+   "almuerzo",
+   "cena"
+  ],
+  "tags": [
+   "clasico",
+   "para grupos"
+  ],
+  "nicho": false,
+  "platos": [
+   "Hamburguesa clásica con lomito",
+   "Papas fritas caseras",
+   "Combo doble cheeseburger"
+  ],
+  "descripcion": "Pionera de las hamburguesas marplatenses, con vitrina temática de rock and roll y porciones generosas a buen precio.",
+  "instagram": "",
+  "fuente": "https://wanderlog.com/place/details/1425206/crip-hamburgues",
+  "fotos": [
+   "fotos/crip-hamburgues-1.jpg",
+   "fotos/crip-hamburgues-2.jpg"
+  ],
+  "lat": -37.998695,
+  "lng": -57.55146
+ },
+ {
+  "id": "detroit-burgers",
+  "nombre": "Detroit Burgers",
+  "categoria": "hamburguesas",
+  "barrio": "Centro",
+  "direccion": "Corrientes 2693",
+  "precio": 2,
+  "momentos": [
+   "almuerzo",
+   "cena"
+  ],
+  "tags": [
+   "clasico"
+  ],
+  "nicho": true,
+  "platos": [
+   "Smash burger doble",
+   "Bacon cheeseburger",
+   "Papas rústicas"
+  ],
+  "descripcion": "Hamburguesería de estilo americano con muy buena nota en Google, ideal para una smash burger sin vueltas.",
+  "instagram": "",
+  "fuente": "https://wanderlog.com/list/geoCategory/39867",
+  "fotos": [
+   "fotos/detroit-burgers-1.jpg",
+   "fotos/detroit-burgers-2.jpg"
+  ],
+  "lat": -38.008798,
+  "lng": -57.5504
+ },
+ {
+  "id": "the-burger-factory",
+  "nombre": "The Burger Factory Olavarría",
+  "categoria": "hamburguesas",
+  "barrio": "Güemes",
+  "direccion": "Olavarría 2607",
+  "precio": 2,
+  "momentos": [
+   "almuerzo",
+   "cena",
+   "birra"
+  ],
+  "tags": [
+   "para grupos",
+   "al aire libre"
+  ],
+  "nicho": true,
+  "platos": [
+   "Hamburguesa doble smash",
+   "Burger vegetariana",
+   "Papas con cheddar y bacon"
+  ],
+  "descripcion": "Hamburguesería sobre la movida de Olavarría, con buena variedad de combos y cerveza artesanal para acompañar.",
+  "instagram": "",
+  "fuente": "https://wanderlog.com/list/geoCategory/39867",
+  "fotos": [
+   "fotos/the-burger-factory-1.jpg",
+   "fotos/the-burger-factory-2.jpg"
+  ],
+  "lat": -38.012862,
+  "lng": -57.540977
+ },
+ {
+  "id": "craft-sushi-fusion",
+  "nombre": "Craft Sushi Fusión",
+  "categoria": "sushi",
+  "barrio": "Centro",
+  "direccion": "",
+  "precio": 3,
+  "momentos": [
+   "cena"
+  ],
+  "tags": [
+   "romantico"
+  ],
+  "nicho": true,
+  "platos": [
+   "Rolls crispy",
+   "Sashimi mixto",
+   "Nigiri de salmón"
+  ],
+  "descripcion": "Propuesta nikkei solo de noche, con rolls creativos y buena nota en las reseñas de sushi de la ciudad.",
+  "instagram": "",
+  "fuente": "https://wanderlog.com/list/geoCategory/86274",
+  "fotos": [
+   "fotos/craft-sushi-fusion-1.jpg",
+   "fotos/craft-sushi-fusion-2.jpg"
+  ],
+  "lat": -37.997617,
+  "lng": -57.548208
+ },
+ {
+  "id": "sushi-amigos-del-mar",
+  "nombre": "Sushi Amigos Del Mar",
+  "categoria": "sushi",
+  "barrio": "Centro",
+  "direccion": "Tomás Guido 2056",
+  "precio": 2,
+  "momentos": [
+   "almuerzo",
+   "cena"
+  ],
+  "tags": [
+   "clasico",
+   "para grupos"
+  ],
+  "nicho": false,
+  "platos": [
+   "Combinado de 30 piezas",
+   "Rolls california",
+   "Sashimi de salmón"
+  ],
+  "descripcion": "Sushi barrial con una de las mejores notas de la ciudad, ideal para pedir un combinado grande entre varios.",
+  "instagram": "",
+  "fuente": "https://wanderlog.com/list/geoCategory/86274",
+  "fotos": [
+   "fotos/sushi-amigos-del-mar-1.jpg",
+   "fotos/sushi-amigos-del-mar-2.jpg"
+  ],
+  "lat": -37.995687,
+  "lng": -57.562179
+ },
+ {
+  "id": "sushi-point",
+  "nombre": "Sushi Point",
+  "categoria": "sushi",
+  "barrio": "Chauvin",
+  "direccion": "Castelli 3075",
+  "precio": 2,
+  "momentos": [
+   "almuerzo",
+   "cena"
+  ],
+  "tags": [
+   "clasico"
+  ],
+  "nicho": false,
+  "platos": [
+   "Bandeja de nigiri",
+   "Roll langostino crispy",
+   "Sashimi variado"
+  ],
+  "descripcion": "Sushi resto de barrio en Chauvin, con bandejas prolijas y buena relación precio-calidad para pedir a cada rato.",
+  "instagram": "",
+  "fuente": "https://wanderlog.com/list/geoCategory/86274",
+  "fotos": [
+   "fotos/sushi-point-1.jpg",
+   "fotos/sushi-point-2.jpg"
+  ],
+  "lat": -38.006607,
+  "lng": -57.559266
+ },
+ {
+  "id": "oso-blanco",
+  "nombre": "Oso Blanco",
+  "categoria": "veggie",
+  "barrio": "Centro",
+  "direccion": "Alberti 2746",
+  "precio": 1,
+  "momentos": [
+   "almuerzo",
+   "cena"
+  ],
+  "tags": [
+   "sin tacc",
+   "al aire libre"
+  ],
+  "nicho": true,
+  "platos": [
+   "Hamburguesa vegana",
+   "Pizza vegana",
+   "Wrap de verduras con hummus"
+  ],
+  "descripcion": "Todo el menú es vegano: hamburguesas, pizzas y sándwiches para quienes buscan comida rápida sin productos animales.",
+  "instagram": "",
+  "fuente": "https://stats.happycow.net/south_america/argentina/mar_del_plata/print",
+  "fotos": [
+   "fotos/oso-blanco-1.jpg",
+   "fotos/oso-blanco-2.jpg"
+  ],
+  "lat": -38.006034,
+  "lng": -57.554317
+ },
+ {
+  "id": "ni-hao",
+  "nombre": "Ni Hao",
+  "categoria": "veggie",
+  "barrio": "Centro",
+  "direccion": "Tucumán 2286",
+  "precio": 1,
+  "momentos": [
+   "almuerzo"
+  ],
+  "tags": [
+   "clasico"
+  ],
+  "nicho": false,
+  "platos": [
+   "Buffet tenedor libre vegetariano",
+   "Bolitas de soja",
+   "Empanadas de verdura"
+  ],
+  "descripcion": "Tenedor libre vegetariano al peso, con mucha variedad y precio accesible, solo al mediodía.",
+  "instagram": "",
+  "fuente": "https://stats.happycow.net/south_america/argentina/mar_del_plata/print",
+  "fotos": [
+   "fotos/ni-hao-1.jpg",
+   "fotos/ni-hao-2.jpg"
+  ],
+  "lat": -38.007248,
+  "lng": -57.544666
+ },
+ {
+  "id": "un-gusto-superior",
+  "nombre": "Un Gusto Superior",
+  "categoria": "veggie",
+  "barrio": "Centro",
+  "direccion": "Belgrano 3448",
+  "precio": 1,
+  "momentos": [
+   "almuerzo"
+  ],
+  "tags": [
+   "sin tacc"
+  ],
+  "nicho": true,
+  "platos": [
+   "Milanesa vegana de soja",
+   "Bowl de smoothie con frutas",
+   "Hamburguesa vegana"
+  ],
+  "descripcion": "Comida rápida 100% vegana para llevar, con menú que cambia seguido y onda bien casera.",
+  "instagram": "",
+  "fuente": "https://stats.happycow.net/south_america/argentina/mar_del_plata/print",
+  "fotos": [
+   "fotos/un-gusto-superior-1.jpg",
+   "fotos/un-gusto-superior-2.jpg"
+  ],
+  "lat": -37.996757,
+  "lng": -57.556867
+ },
+ {
+  "id": "raices-verdes",
+  "nombre": "Raíces Verdes",
+  "categoria": "veggie",
+  "barrio": "Camet",
+  "direccion": "Ruta Provincial 11",
+  "precio": 2,
+  "momentos": [
+   "almuerzo",
+   "cena",
+   "merienda"
+  ],
+  "tags": [
+   "al aire libre",
+   "sin tacc"
+  ],
+  "nicho": true,
+  "platos": [
+   "Bowl de brunch con tofu",
+   "Pizza vegana",
+   "Tostado integral con hummus"
+  ],
+  "descripcion": "Café y cocina vegana sobre la ruta, con bowls prolijos, brunch todo el día y mesas afuera.",
+  "instagram": "",
+  "fuente": "https://stats.happycow.net/south_america/argentina/mar_del_plata/print",
+  "fotos": [
+   "fotos/raices-verdes-1.jpg",
+   "fotos/raices-verdes-2.jpg"
+  ],
+  "lat": -37.940023,
+  "lng": -57.533548
+ }
+]

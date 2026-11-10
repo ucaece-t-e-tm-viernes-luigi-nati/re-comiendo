@@ -1,64 +1,61 @@
-# Re-Comiendo
+# ReComiendo
 
-MVP de **Re-Comiendo** · Taller Emprendedor · Universidad CAECE (Mar del Plata) · comisión viernes · 2do cuatrimestre 2026.
+App responsive que mezcla Instagram y Google Maps para encontrar rápido dónde comer o tomar algo en Mar del Plata, con un recomendador que aprende de tus gustos y un asistente con IA ("Refi").
+
+MVP del Taller Emprendedor — Universidad CAECE, Mar del Plata (comisión viernes, 2.º cuatrimestre 2026). Versión **2.2**.
 
 - **App publicada:** https://re-comiendo.vercel.app
 - **Landing del curso:** https://ucaece-t-e-tm-viernes-luigi-nati.github.io/landing/
 - **Docentes:** Luis Miguel Orviz y Natalia Tonon García
+- La entrega original del equipo (v2.1, sobre Supabase) está en [`referencia-v2.1/`](referencia-v2.1/).
 
-## Cómo está armado
+## Modelo (B2B2C) y roles
 
-| Pieza | Qué es |
-|---|---|
-| [Next.js](https://nextjs.org) 16 | La app (páginas en `app/`) |
-| [better-auth](https://better-auth.com) | Registro e ingreso con correo y contraseña |
-| [Neon](https://neon.com) | Base de datos Postgres (gratis) |
-| [Drizzle](https://orm.drizzle.team) | Para leer y escribir la base desde el código |
-| [Vercel](https://vercel.com) | Publica la app sola cada vez que se sube algo a `main` |
-| Tailwind CSS | Estilos |
+| Quién | Qué hace | Paga |
+|---|---|---|
+| **Comensales** (usuarios) | Reciben recomendaciones según sus gustos y el momento del día, usan el mapa, el feed y las fichas, reservan, dejan reseñas, suman puntos y los canjean por premios. | Gratis, con plan **Premium** opcional. |
+| **Locales** (clientes / empresas) | Cafés, bares y restaurantes: editan su ficha, publican novedades, gestionan reservas (validan el código del comensal), responden reseñas, ven sus métricas y contratan patrocinios. | Abono mensual en ARS (con 14 días de prueba) + patrocinios. |
+| **Equipo de ReComiendo** (superadmin y admins) | Invita y aprueba locales, registra pagos, gestiona planes, modera reseñas y premios, ve las métricas de la red y configura la IA. | — |
 
-```
-app/
-  page.tsx            → portada pública
-  login/              → ingreso y registro
-  panel/              → área privada (solo usuarios logueados): acá va el MVP
-  api/auth/           → endpoints de better-auth (no tocar)
-lib/
-  site.ts             → nombre, frase y color de la startup
-  auth.ts             → configuración del login + getCurrentUser()
-  db.ts, schema.ts    → conexión a Neon y tablas
-scripts/migrate.mjs   → crea las tablas en Neon (corre solo en cada deploy)
-```
+- `user.role`: `superadmin` (email en `SUPERADMIN_EMAILS`, no se puede quitar) · `admin` (equipo, se suma desde Plataforma → Equipo) · `member`.
+- `client_member.role`: `owner` · `staff`. Cada cliente tiene su local (`locales.client_id`) y todo se filtra por el `client_id` resuelto en el servidor.
+- Matriz de permisos en `lib/permissions.ts`, chequeada siempre en el servidor (`lib/guards.ts`).
 
-## Cómo se publica
+## Superficies
 
-1. Se sube un cambio a la rama `main` → Vercel lo publica en la URL de producción en 1-2 minutos.
-2. Si se sube a otra rama (ej. `prueba-panel`) → Vercel arma una **preview** con una URL propia para probar sin tocar producción.
-3. Antes de cada publicación corre `scripts/migrate.mjs`, que crea en Neon las tablas que falten.
+Las tres superficies **nunca se muestran juntas** y cada una tiene su propio login:
 
-Las variables `DATABASE_URL` y `BETTER_AUTH_SECRET` ya están cargadas en Vercel. **Nunca** se suben claves al repo: el repo es público.
+- **Pública (comensales)** — `/` (landing), `/ingresar` (registro e ingreso), `/inicio`, `/explorar`, `/mapa`, `/feed`, `/eventos`, `/local/[id]`, `/refi`, `/puntos`, `/premium`, `/perfil`.
+- **Panel del local** — `/empresa/...`. Se llega con el link del mail de aprobación: resumen con métricas, ficha, publicaciones, reservas, reseñas, patrocinio, equipo y plan.
+- **Plataforma del equipo** — `/plataforma/...`: resumen, métricas de la red, solicitudes, clientes, locales, comensales, reseñas, premios, invitaciones, planes, mails, equipo, auditoría y ajustes (API key de Claude para Refi).
 
-## Trabajar en tu PC (opcional)
+Las secciones internas no se linkean desde la parte pública, no se indexan (`robots.txt`, `noindex`, `X-Robots-Tag`) y responden **404** a quien no tenga sesión con el rol correspondiente (`proxy.ts` como primera barrera y guards en cada página, layout y server action).
 
-Necesitás [Node.js 20.9+](https://nodejs.org) y [Git](https://git-scm.com).
+## Alta de locales (por link + aprobación)
+
+1. El equipo crea en **Plataforma → Invitaciones** una invitación personal (un solo uso, 14 días, por mail) o un link de campaña (reutilizable, con vigencia y cupo).
+2. El local completa el wizard de 5 pasos en `/empresa/alta/<token>`: cuenta → datos de la empresa → características (tipo de cocina, precios, momentos del día, horarios, opciones, platos, barrio y ubicación en el mapa) → plan y día de pago → revisión y envío.
+3. Llegan los mails "Recibimos tu solicitud" (al local) y "Nueva solicitud" (al equipo).
+4. El equipo aprueba (plan, abono, prueba y día de pago), pide cambios o rechaza con motivo. Al aprobar se crea el cliente, su local visible en la app y el usuario dueño con contraseña temporal, y sale el mail con usuario, contraseña, link, costo, fin de la prueba y día de pago.
+5. Un cron diario (`/api/cron/vencimientos`) avisa antes del vencimiento, marca "pago vencido" y pausa la cuenta pasados `PAUSE_AFTER_DAYS` días. Al registrar el pago se reactiva.
+
+## Stack
+
+Next.js 16 (App Router, `cacheComponents`) · React 19 · Tailwind 4 · better-auth · Neon Postgres (`pg` + drizzle) · Vercel (con cron) · nodemailer (SMTP de Google Workspace) · Leaflet (mapa) · recharts.
+
+## Correr en tu PC
 
 ```bash
-git clone https://github.com/ucaece-t-e-tm-viernes-luigi-nati/re-comiendo.git
-cd re-comiendo
 npm install
-cp .env.example .env.local   # completá DATABASE_URL y BETTER_AUTH_SECRET (pedíselos a los docentes)
-npm run db:migrate           # crea las tablas
-npm run dev                  # abre http://localhost:3000
+cp .env.example .env.local   # completar DATABASE_URL (Neon) y BETTER_AUTH_SECRET
+npm run db:migrate           # crea el esquema y, con SEED_DEMO=true, los datos de demo
+npm run dev
 ```
 
-## Agregar una tabla nueva
+- Con `SEED_DEMO_PASSWORD` cargada: `local.demo@example.com` entra por `/empresa/ingresar` y `comensal.demo@example.com` por `/ingresar`.
+- Equipo: el email de `SUPERADMIN_EMAILS` entra por `/plataforma/ingresar` → "Primer ingreso u olvidé mi contraseña" (sin SMTP, el link queda en la consola del servidor y en Plataforma → Mails).
+- `scripts/migrate.mjs` es idempotente y corre solo antes de cada build en Vercel.
 
-1. Definila en `lib/schema.ts` (ver ejemplos de Drizzle).
-2. Agregá su `CREATE TABLE IF NOT EXISTS ...` en `scripts/migrate.mjs`.
-3. Subí el cambio: en el próximo deploy se crea sola en Neon.
-
-## Equipo
-
-Repo de la organización `ucaece-t-e-tm-viernes-luigi-nati`. El equipo `equipo-re-comiendo` tiene permiso de **admin** sobre este repo.
+Todas las variables están explicadas en [`.env.example`](.env.example).
 
 > Demo académica con datos de ejemplo, sin fines comerciales.
